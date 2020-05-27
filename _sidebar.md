@@ -15,7 +15,8 @@
     - [JSON](javascript/json.md)
     - [构造函数](javascript/构造函数.md)
     - [执行上下文](javascript/执行上下文.md)
-
+    - [正则表达式](javascript/正则表达式.md)
+    
 - Git和Linux
   - [git](git.md)
   - [Linux](linux.md)
