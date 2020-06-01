@@ -1,1 +1,3 @@
-##### 关于JavaScript API 的记录
+# 前言
+
+> 关于Javascript API的一些记录
