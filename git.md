@@ -11,3 +11,7 @@ git checkout -b xxx/git checkout xxx;
 git merge xxx;
 ```
 
+##### [Git上传文件错误导致本地代码丢失](https://www.cnblogs.com/pinkpinkc/p/10739441.html)
+
+##### [本地Git仓库和远程仓库的创建及关联](https://www.jianshu.com/p/dcbb8baa6e36)
+
