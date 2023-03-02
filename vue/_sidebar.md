@@ -1,5 +1,8 @@
-- Vue
-    - [vue初识](vue/vue/vue初识.md)
-    - [生命周期](vue/vue/生命周期.md)
-    - [axios](vue/vue/axios.md)
-
+- Vue3
+  - [vue3安装运行时的问题](vue/vue3/vue3安装运行时的问题.md)
+  - [ref全家桶](vue/vue3/ref全家桶.md)
+  - [reactive全家桶](vue/vue3/reactive全家桶.md)
+- Vue2
+  - [vue初识](vue/vue2/vue初识.md)
+  - [生命周期](vue/vue2/生命周期.md)
+  - [axios](vue/vue2/axios.md)
