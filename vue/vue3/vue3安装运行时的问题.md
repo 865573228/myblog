@@ -2,7 +2,7 @@
 
 在项目根目录创建 env.d.ts 文件（如果已有，则在文件中追加），加入以下内容：
 
-``` vue
+``` ts
 declare module "*.vue" {
   import type { DefineComponent } from "vue"; 
   const vueComponent: DefineComponent<{}, {}, any>; 
